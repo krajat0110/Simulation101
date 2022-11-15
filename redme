@@ -1,0 +1,8 @@
+Develop a simple simulation and simulation tracing program
+Develop a program for executing simulations event by event
+Implement synchronization simulation time with wallclock time
+Develop an event stepping of models with a GUI 
+Develop a DES simulation on simpy
+Implement inferences and output monitoring
+plot for simulation, statistical parameter using simpy
+
